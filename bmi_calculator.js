@@ -16,6 +16,7 @@ function calculateBMI(){
     }
 }
 
+
 function reload(){
     window.location.reload()
 }
